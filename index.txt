@@ -1,0 +1,32 @@
+
+
+Description of our data folders/files
+---------------------------------------
+
+
+1. DATA KEYS
+	This contains one document that gives hint of the possible groupings of data which can help 
+	you to best interprete and group your data.
+	
+	
+2. DATA NOTES
+	From that data that you will observe, in the .csv file, you will notice that, the data content has used
+	numerical data placeholders, mostly in the range of -1 to 1. Only exceptional information includes probability values
+	and monetory values. This information is important in that, it will help you to interprete our data.
+	
+	
+3. DATASET
+	This information is the core that will help you understand problem set.
+	
+	
+4. QUESTIONS
+	These are questions that allow will use to respond to the hackathon needs.
+	
+	
+	
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+GOOD LUCK
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
